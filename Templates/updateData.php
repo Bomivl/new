@@ -6,12 +6,12 @@
             <input type='text' id='form_name' name='id'>
         </div>
         <div class='form-row'>
-            <label for='form_fname'>Имя: </label>
+            <label for='form_fname'>Изменить имя на</label>
             <input type='text' id='form_fname' name='name'>
         </div>
 
         <div class='form-row'>
-            <label for='form_sname'>email: </label>
+            <label for='form_sname'>email на: </label>
             <input type='text' id='form_sname' name='email'>
         </div>
 
