@@ -2,7 +2,7 @@
     <form method='post' class='reg-form'>
 
         <div class='form-row'>
-            <label for='form_name'>ID: </label>
+            <label for='form_name'>Где ID: </label>
             <input type='text' id='form_name' name='id'>
         </div>
         <div class='form-row'>
